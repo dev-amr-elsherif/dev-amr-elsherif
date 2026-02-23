@@ -86,20 +86,21 @@ I started my journey in **Electronics & Communication Engineering** before trans
 
 # 📊 GitHub Stats:
 
-<p align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="60%" alt="Most Commit Language" />
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dev-amr-elsherif&theme=github_dark" width="100%" alt="Profile Details" />
 
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
+<br/><br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dev-amr-elsherif&theme=github_dark" width="48%" alt="Most Commit Language" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dev-amr-elsherif&theme=github_dark" width="48%" alt="Repos Per Language" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&color=009DFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+<br/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&color=009DFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
