@@ -70,31 +70,4 @@ I started my journey in **Electronics & Communication Engineering** before trans
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
----
-
-# 📊 GitHub Stats:
-
-<p align="center">
-  <img src="profile-summary-card-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="profile-summary-card-output/github_dark/1-repo-languages.svg" width="49%" alt="Repo Languages" />
-  <img src="profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=false" width="100%" alt="GitHub Streak" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&color=009DFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
+![Git](
