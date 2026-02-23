@@ -81,12 +81,16 @@ I started my journey in **Electronics & Communication Engineering** before trans
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/profile-summary-cards/profile-summary-cards-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/1-repo-languages.svg" width="49%" alt="Repo Languages" />
-  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/profile-summary-cards/profile-summary-cards-output/github_dark/1-repo-languages.svg" width="49%" alt="Repo Languages" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/profile-summary-cards/profile-summary-cards-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=false" width="100%" alt="GitHub Streak" />
 </p>
 
 ---
