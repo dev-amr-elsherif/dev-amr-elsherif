@@ -81,12 +81,12 @@ I started my journey in **Electronics & Communication Engineering** before trans
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="profile-summary-cards-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/0-profile-details.svg" width="100%" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="profile-summary-cards-output/github_dark/1-repo-languages.svg" width="49%" alt="Repo Languages" />
-  <img src="profile-summary-cards-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/1-repo-languages.svg" width="49%" alt="Repo Languages" />
+  <img src="https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-cards-output/github_dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
 </p>
 
 ---
