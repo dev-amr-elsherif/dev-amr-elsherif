@@ -37,11 +37,17 @@ I started my journey in **Electronics & Communication Engineering** before trans
 
 ---
 
-## 🔥 Pinned Project
+## 🔥 Pinned Projects
 
 [![DevSync](https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter)](https://github.com/dev-amr-elsherif/devsync_flutter)
 
 > **DevSync** is an AI-powered developer matching platform. 🚀
+
+<br>
+
+[![Flutter & Dart Specialization](https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt)](https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt)
+
+> **Flutter & Dart Specialization** - My learning journey and practical projects from Packt. 🌟
 
 ---
 
