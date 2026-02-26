@@ -49,6 +49,11 @@ I started my journey in **Electronics & Communication Engineering** before trans
 
 > **Flutter & Dart Specialization** - My learning journey and practical projects from Packt. 🌟
 
+<br>
+
+[![Tech Learning Journey](https://opengraph.githubassets.com/1/dev-amr-elsherif/Tech-Learning-Journey)](https://github.com/dev-amr-elsherif/Tech-Learning-Journey)
+
+> **Tech Learning Journey** - A centralized vault for my continuous learning, code snippets, and architectural practice. 📚
 ---
 
 ## 🌐 Connect With Me:
