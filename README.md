@@ -103,7 +103,9 @@ I’m open to collaborate on:
 ---
 
 ### ⚡ What I bring to your project
-> **I engineer software systems — not just mobile apps.** > I focus on architecture, scalability, and clean code to build products that grow and adapt to business needs.
+> **I engineer software systems — not just mobile apps.**
+>
+> I focus on architecture, scalability, and clean code to build products that grow and adapt to business needs.
 
 ---
 
