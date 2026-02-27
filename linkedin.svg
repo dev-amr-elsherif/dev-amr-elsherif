@@ -1,0 +1,16 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="blueGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2563eb" />
+      <stop offset="100%" style="stop-color:#1e40af" />
+    </linearGradient>
+    <clipPath id="squircle">
+      <path d="M 0,30 C 0,0 0,0 30,0 S 60,0 60,30 60,60 30,60 0,60 0,30" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#squircle)">
+    <rect width="60" height="60" fill="url(#blueGrad)" />
+    <path d="M42.4 42.5h-5.6v-8.7c0-2.1-.1-4.8-2.9-4.8-2.9 0-3.4 2.3-3.4 4.6v8.9h-5.6V24.3h5.4v2.5h.1c.7-1.4 2.6-2.9 5.3-2.9 5.6 0 6.7 3.7 6.7 8.5v10.1zM19.7 21.8c-1.8 0-3.3-1.5-3.3-3.3s1.5-3.3 3.3-3.3 3.3 1.5 3.3 3.3-1.5 3.3-3.3 3.3zm2.8 20.7h-5.6V24.3h5.6v18.2z" fill="white"/>
+  </g>
+  <path d="M 0,30 C 0,0 0,0 30,0 S 60,0 60,30 60,60 30,60 0,60 0,30" fill="none" stroke="rgba(255,255,255,0.2)" stroke-width="1"/>
+</svg>

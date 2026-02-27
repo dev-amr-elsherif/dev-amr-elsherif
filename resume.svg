@@ -1,0 +1,13 @@
+<svg width="60" height="60" viewBox="0 0 60 60" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cvGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#4B5563" />
+      <stop offset="100%" style="stop-color:#111827" />
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#sq)">
+    <rect width="60" height="60" fill="url(#cvGrad)" />
+    <rect width="60" height="30" fill="white" fill-opacity="0.05" /> <path d="M38 22H22c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V24c0-1.1-.9-2-2-2zm-2 12H24v-1.5h12V34zm0-3H24V29.5h12V31zm0-3H24V26.5h12V28z" fill="white"/>
+    <path d="M31 18h-2v4h2v-4z" fill="white" fill-opacity="0.5"/> </g>
+  <path d="M 0,30 C 0,0 0,0 30,0 S 60,0 60,30 60,60 30,60 0,60 0,30" fill="none" stroke="white" stroke-opacity="0.15" stroke-width="1.5"/>
+</svg>
