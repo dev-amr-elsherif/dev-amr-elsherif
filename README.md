@@ -1,3 +1,28 @@
+<div align="center">
+  
+  <img src="banner.gif" width="100%" alt="Amr Elsherif Banner"/>
+<hr>
+  <br><br>
+
+  <a href="https://github.com/dev-amr-elsherif">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Amr+F.+Elsherif+👋;Cross-Platform+Mobile+Developer+📱;Team+Leader+@+DEPI+🎯;Building+Apps+with+Flutter+💙" alt="Typing Text" />
+  </a>
+
+  <br><br>
+
+<div align="center">
+
+| <a href="https://www.linkedin.com/in/amr-fathy-elsherif/"><img src="linkedin.svg" width="55" /></a> | <a href="https://dev-amr-elsherif.github.io/"><img src="portfolio.svg" width="55" /></a> | <a href="mailto:dev.amrelsherif@gmail.com"><img src="gmail.svg" width="55" /></a> | <a href="./Amr_Elsherif_Resume.pdf"><img src="resume.svg" width="55" /></a> |
+| :---: | :---: | :---: | :---: |
+| [**LinkedIn**](https://www.linkedin.com/in/amr-fathy-elsherif/) | [**Portfolio**](https://dev-amr-elsherif.github.io/) | [**Email**](mailto:dev.amrelsherif@gmail.com) | [**Resume**](./Amr_Elsherif_Resume.pdf) |
+
+</div>
+</div>
+
+<br>
+<hr>
+<br>
+
 # 💫 About Me:
 
 Hi there 👋 I'm Amr Fathy Elsherif (Sherif)  
@@ -37,24 +62,42 @@ I started my journey in **Electronics & Communication Engineering** before trans
 
 ---
 
-## 🔥 Pinned Projects
+# 🔥 Pinned Projects
 
-[![DevSync](https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter)](https://github.com/dev-amr-elsherif/devsync_flutter)
-
-> **DevSync** is an AI-powered developer matching platform. 🚀
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/dev-amr-elsherif/devsync_flutter">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Flutter Project">
+        </a>
+        <br>
+        <p><b>DevSync</b> - AI-powered developer matching platform. 🚀</p>
+      </td>
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt" width="100%" alt="Flutter Dart Specialization">
+        </a>
+        <br>
+        <p><b>Flutter & Dart Specialization</b> - My learning journey and practical projects from Packt. 🌟</p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center" valign="top">
+        <br>
+        <a href="https://github.com/dev-amr-elsherif/Tech-Learning-Journey">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Tech-Learning-Journey" width="50%" alt="Tech Learning Journey">
+        </a>
+        <br>
+        <p><b>Tech Learning Journey</b> - A centralized vault for my continuous learning, code snippets, and architectural practice. 📚</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br>
-
-[![Flutter & Dart Specialization](https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt)](https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt)
-
-> **Flutter & Dart Specialization** - My learning journey and practical projects from Packt. 🌟
-
+<hr>
 <br>
-
-[![Tech Learning Journey](https://opengraph.githubassets.com/1/dev-amr-elsherif/Tech-Learning-Journey)](https://github.com/dev-amr-elsherif/Tech-Learning-Journey)
-
-> **Tech Learning Journey** - A centralized vault for my continuous learning, code snippets, and architectural practice. 📚
----
 
 ## 🌐 Connect With Me:
 
