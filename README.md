@@ -5,7 +5,7 @@
   <br><br>
 
   <a href="https://github.com/dev-amr-elsherif">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Amr+F.+Elsherif+👋;Cross-Platform+Mobile+Developer+📱;Team+Leader+@+DEPI+🎯;Building+Apps+with+Flutter+💙" alt="Typing Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=0175C2&center=true&vCenter=true&width=600&lines=Hi,+I'm+Amr+F.+Elsherif+👋;Software+Engineer+💻;Mobile+%26+Backend+Systems+🚀;Team+Leader+@+DEPI+🎯" alt="Typing Text" />
   </a>
 
   <br><br>
@@ -53,56 +53,57 @@
 
 Hi 👋 I'm **Amr Fathy Elsherif (Sherif)** 📍 Alexandria, Egypt  
 🎓 Electronics & Communications Engineering Student at Damanhur University (Class of 2027)  
-📱 Cross-Platform Mobile App Developer Intern at Digital Egypt Pioneers Initiative (DEPI)  
-🚀 I build scalable, maintainable, and user-focused mobile applications using Flutter & Firebase, following Clean Architecture principles and modern state management approaches.  
+🚀 I design and build scalable software systems with a strong focus on mobile applications, robust clean architecture, and reliable API integrations.  
+🧠 Coming from an engineering background, I combine analytical problem-solving with modern development tools to deliver maintainable and user-centered digital products.  
 
 ---
 
 ### 👨‍💻 Current Focus
-- 🔭 Developing production-ready mobile applications using Flutter.
-- 🧠 Applying **Clean Architecture** + **BLoC** pattern in real projects.
-- 🔗 Building apps integrated with REST APIs & Firebase services.
-- 🎯 Practicing UI/UX implementation and responsive mobile design.
-- 🚀 Preparing real-world portfolio projects for freelance and junior roles.
+- 🔭 **Designing scalable software systems** utilizing Clean Architecture principles.
+- 📱 **Building performant cross-platform mobile applications** with Flutter and Dart.
+- 🔗 **Integrating backend services** (REST APIs, Firebase, and basic PHP/Laravel exposure).
+- 🧠 **Practicing core software engineering**, including system design and automated testing.
+- 🚀 **Developing production-ready products** to solve real business challenges.
 
 ---
 
 ### 🧩 Technical Direction
-I specialize in building apps that are:
-- ⚙️ **Well-structured** → Clean Architecture, scalable codebase.
-- 🔐 **Secure & reliable** → Firebase Auth, Firestore rules.
-- 🌐 **Connected** → REST APIs, JSON handling, API integration.
-- 📱 **User-focused** → Smooth UI, performance, and usability.
-- 💾 **Offline-ready** → Local storage (Hive / SharedPreferences / SQLite).
+I specialize in building software that is:
+- 🏗️ **Architecturally Sound** → Modular, testable, and extensible codebases.
+- 🔄 **Well-Structured** → Strict separation of concerns (Data / Domain / Presentation layers).
+- 🔐 **Secure & Reliable** → Structured databases, robust Auth, and smart data caching.
+- 🌐 **Seamlessly Connected** → Efficient REST API consumption and JSON parsing.
+- 📱 **User-Centric** → High-performance rendering and intuitive mobile UI/UX.
 
 ---
 
 ### 👥 Leadership & Team Work
-- 🏆 **Team Leader** at DEPI.
-- 👨‍💻 Leading the **DevSync Team** for our graduation mobile application.
-- 🤝 Experienced in team coordination, task distribution, and code collaboration using Git & GitHub.
+- 🏆 **Team Leader** at Digital Egypt Pioneers Initiative (DEPI).
+- 👨‍💻 Leading the **DevSync Team** for our graduation project.
+- 🤝 Experienced in agile task distribution, technical planning, and team collaboration using Git & GitHub.
 
 ---
 
 ### 🤝 Collaboration & Opportunities
 I’m open to collaborate on:
-- 📱 Flutter Mobile Applications.
-- 🔗 Backend-integrated apps (Firebase / APIs).
-- 🚀 MVPs & startup mobile products.
-- 🎯 Currently seeking Freelance opportunities or a Junior Flutter Developer / Mobile Developer Trainee role.
+- 📱 Mobile Applications (Flutter).
+- 🔗 Systems requiring API and Firebase integrations.
+- 🧠 Software architecture and technical planning phases.
+- 🚀 MVPs for startups (from conceptual architecture to full implementation).
 
 ---
 
 ### 💬 Ask Me About
-- 📱 Building Flutter apps from scratch.
+- 🧠 Software Architecture, SOLID principles, and Clean Code.
+- 🔗 API Design consumption and state management.
+- 📱 Building highly-scalable Flutter apps from the ground up.
 - 🔥 Firebase integration (Auth, Firestore, Storage, FCM).
-- 🧠 Clean Architecture & State Management.
-- 🔄 Transitioning from Web Development (PHP/Laravel) to Mobile Development.
+- 🔄 Bridging the gap between Web concepts (PHP/Laravel) and Mobile Environments.
 
 ---
 
 ### ⚡ What I bring to your project
-> I combine engineering thinking with mobile development skills to deliver well-structured, scalable Flutter apps backed by Firebase.
+> **I engineer software systems — not just mobile apps.** > I focus on architecture, scalability, and clean code to build products that grow and adapt to business needs.
 
 ---
 
@@ -113,17 +114,17 @@ I’m open to collaborate on:
     <tr>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/devsync_flutter">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Flutter Project">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Project">
         </a>
         <br>
-        <p><b>DevSync</b> - AI-powered developer matching platform. 🚀</p>
+        <p><b>DevSync</b> - AI-powered developer matching platform focused on team collaboration and skill-based pairing, built with Clean Architecture. 🚀</p>
       </td>
       <td width="50%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt" width="100%" alt="Flutter Dart Specialization">
         </a>
         <br>
-        <p><b>Flutter & Dart Specialization</b> - My learning journey and practical projects from Packt. 🌟</p>
+        <p><b>Flutter & Dart Specialization</b> - Practical implementations of advanced mobile engineering concepts. 🌟</p>
       </td>
     </tr>
     <tr>
@@ -133,7 +134,7 @@ I’m open to collaborate on:
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Tech-Learning-Journey" width="50%" alt="Tech Learning Journey">
         </a>
         <br>
-        <p><b>Tech Learning Journey</b> - A centralized vault for my continuous learning, code snippets, and architectural practice. 📚</p>
+        <p><b>Tech Learning Journey</b> - A centralized vault for software engineering concepts, system design, and architectural practice. 📚</p>
       </td>
     </tr>
   </table>
@@ -147,9 +148,9 @@ I’m open to collaborate on:
 
 <div align="center">
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,git,github,vscode,androidstudio,postman,figma&theme=dark&perline=5" alt="Core Tech Stack"/>
-  </a>
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,php,laravel,mysql,sqlite,html,bootstrap,git,github,vscode,androidstudio,postman,figma,css&theme=dark&perline=8" alt="Core Tech Stack"/>
+</a>
 
   <br><br>
 
@@ -161,7 +162,7 @@ I’m open to collaborate on:
 
   <br><br>
 
-  <h3>🌐 Networking & Local Storage</h3>
+  <h3>🌐 Networking & Data Handling</h3>
   <img src="https://img.shields.io/badge/Dio-000000?style=for-the-badge&logo=dart&logoColor=00F0FF" alt="Dio" />
   <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=json&logoColor=7A5CFF" alt="REST APIs" />
   <img src="https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=00F0FF" alt="Hive" />
@@ -169,7 +170,7 @@ I’m open to collaborate on:
 
   <br><br>
 
-  <h3>🔥 Backend Services & Testing</h3>
+  <h3>🔥 Cloud Services & Core Tools</h3>
   <img src="https://img.shields.io/badge/Firebase_Auth-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Auth" />
   <img src="https://img.shields.io/badge/Cloud_Firestore-000000?style=for-the-badge&logo=firebase&logoColor=7A5CFF" alt="Cloud Firestore" />
   <img src="https://img.shields.io/badge/Firebase_Storage-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Storage" />
