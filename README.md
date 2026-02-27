@@ -1,7 +1,7 @@
 <div align="center">
   
   <img src="banner.gif" width="100%" alt="Amr Elsherif Banner"/>
-<hr>
+  <hr>
   <br><br>
 
   <a href="https://github.com/dev-amr-elsherif">
@@ -10,55 +10,99 @@
 
   <br><br>
 
-<div align="center">
+  <table border="0" cellpadding="10">
+    <tr>
+      <td align="center" width="120">
+        <a href="https://www.linkedin.com/in/amr-fathy-elsherif/">
+          <img src="linkedin.svg" width="55" height="55" alt="LinkedIn" />
+        </a>
+        <br>
+        <a href="https://www.linkedin.com/in/amr-fathy-elsherif/"><b>LinkedIn</b></a>
+      </td>
+      <td align="center" width="120">
+        <a href="https://dev-amr-elsherif.github.io/">
+          <img src="portfolio.svg" width="55" height="55" alt="Portfolio" />
+        </a>
+        <br>
+        <a href="https://dev-amr-elsherif.github.io/"><b>Portfolio</b></a>
+      </td>
+      <td align="center" width="120">
+        <a href="mailto:dev.amrelsherif@gmail.com">
+          <img src="gmail.svg" width="55" height="55" alt="Email" />
+        </a>
+        <br>
+        <a href="mailto:dev.amrelsherif@gmail.com"><b>Email</b></a>
+      </td>
+      <td align="center" width="120">
+        <a href="./Amr_Elsherif_Resume.pdf">
+          <img src="resume.svg" width="55" height="55" alt="Resume" />
+        </a>
+        <br>
+        <a href="./Amr_Elsherif_Resume.pdf"><b>Resume</b></a>
+      </td>
+    </tr>
+  </table>
 
-| <a href="https://www.linkedin.com/in/amr-fathy-elsherif/"><img src="linkedin.svg" width="55" /></a> | <a href="https://dev-amr-elsherif.github.io/"><img src="portfolio.svg" width="55" /></a> | <a href="mailto:dev.amrelsherif@gmail.com"><img src="gmail.svg" width="55" /></a> | <a href="./Amr_Elsherif_Resume.pdf"><img src="resume.svg" width="55" /></a> |
-| :---: | :---: | :---: | :---: |
-| [**LinkedIn**](https://www.linkedin.com/in/amr-fathy-elsherif/) | [**Portfolio**](https://dev-amr-elsherif.github.io/) | [**Email**](mailto:dev.amrelsherif@gmail.com) | [**Resume**](./Amr_Elsherif_Resume.pdf) |
-
-</div>
 </div>
 
 <br>
 <hr>
 <br>
 
-# 💫 About Me:
+# 💫 About Me
 
-Hi there 👋 I'm Amr Fathy Elsherif (Sherif)  
-📍 Based in Alexandria, Egypt  
-
-🎓 Electronics & Communication Engineering Student (Damanhur University, Class of 2027)  
-📱 Cross-Platform Mobile App Developer Intern at DEPI  
-🚀 Passionate about building scalable and user-friendly mobile applications  
+Hi 👋 I'm **Amr Fathy Elsherif (Sherif)** 📍 Alexandria, Egypt  
+🎓 Electronics & Communication Engineering Student at Damanhur University (Class of 2027)  
+📱 Cross-Platform Mobile App Developer Intern at Digital Egypt Pioneers Initiative (DEPI)  
+🚀 I build scalable, maintainable, and user-focused mobile applications using Flutter & Firebase, following Clean Architecture principles and modern state management approaches.  
 
 ---
 
-### 👨‍💻 What I'm doing now
-- 🔭 Currently improving my skills as a **Flutter Mobile Developer**
-- 🌱 Learning **Flutter, Dart, Firebase, UI/UX, and Mobile Deployment**
-- 🧠 Deep diving into **State Management (GetX / Provider / Bloc)** and **Clean Architecture**
-- 🏆 **Team Leader (Group Leader)** @ DEPI
-- 🌟 Leading **DevSync TEAM** for our DEPI graduation project
+### 👨‍💻 Current Focus
+- 🔭 Developing production-ready mobile applications using Flutter.
+- 🧠 Applying **Clean Architecture** + **BLoC** pattern in real projects.
+- 🔗 Building apps integrated with REST APIs & Firebase services.
+- 🎯 Practicing UI/UX implementation and responsive mobile design.
+- 🚀 Preparing real-world portfolio projects for freelance and junior roles.
 
 ---
 
-### 🤝 Collaboration & Goals
-- 🤝 Open to collaborate on **Flutter mobile apps** and **backend-integrated projects**
-- 🎯 My goal is to build **real-world apps** and start working as a **Freelance / Mobile Developer Trainee**
-- ❤️ Actively participating in **community volunteering** and charity initiatives
+### 🧩 Technical Direction
+I specialize in building apps that are:
+- ⚙️ **Well-structured** → Clean Architecture, scalable codebase.
+- 🔐 **Secure & reliable** → Firebase Auth, Firestore rules.
+- 🌐 **Connected** → REST APIs, JSON handling, API integration.
+- 📱 **User-focused** → Smooth UI, performance, and usability.
+- 💾 **Offline-ready** → Local storage (Hive / SharedPreferences / SQLite).
+
+---
+
+### 👥 Leadership & Team Work
+- 🏆 **Team Leader (Group Leader)** at DEPI.
+- 👨‍💻 Leading the **DevSync Team** for our graduation mobile application.
+- 🤝 Experienced in team coordination, task distribution, and code collaboration using Git & GitHub.
+
+---
+
+### 🤝 Collaboration & Opportunities
+I’m open to collaborate on:
+- 📱 Flutter Mobile Applications.
+- 🔗 Backend-integrated apps (Firebase / APIs).
+- 🚀 MVPs & startup mobile products.
+- 🎯 Currently seeking Freelance opportunities or a Junior Flutter Developer / Mobile Developer Trainee role.
 
 ---
 
 ### 💬 Ask Me About
-- Flutter basics & starting your first mobile app  
-- PHP Laravel fundamentals  
-- How to move from web development to mobile development  
+- 📱 Building Flutter apps from scratch.
+- 🔥 Firebase integration (Auth, Firestore, Storage, FCM).
+- 🧠 Clean Architecture & State Management.
+- 🔄 Transitioning from Web Development (PHP/Laravel) to Mobile Development.
 
 ---
 
-### ⚡ Fun Fact
-I started my journey in **Electronics & Communication Engineering** before transitioning into **Mobile App Development** 🚀
+### ⚡ What I bring to your project
+> I combine engineering thinking with mobile development skills to deliver well-structured, scalable Flutter apps backed by Firebase.
 
 ---
 
@@ -99,40 +143,46 @@ I started my journey in **Electronics & Communication Engineering** before trans
 <hr>
 <br>
 
-## 🌐 Connect With Me:
+# 💻 Tech Stack & Skills
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-amr-elsherif/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.amrelsherif@gmail.com)
+<div align="center">
 
----
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,sqlite,git,github,vscode,androidstudio,postman,figma&theme=dark&perline=5" alt="Core Tech Stack"/>
+  </a>
 
-# 💻 Tech Stack:
+  <br><br>
 
-### 📱 Mobile Development
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+  <h3>🧠 Architecture & State Management</h3>
+  <img src="https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge&logo=codeforces&logoColor=00F0FF" alt="Clean Architecture" />
+  <img src="https://img.shields.io/badge/BLoC_(Primary)-000000?style=for-the-badge&logo=dart&logoColor=7A5CFF" alt="BLoC" />
+  <img src="https://img.shields.io/badge/GetX_(Secondary)-000000?style=for-the-badge&logo=flutter&logoColor=00F0FF" alt="GetX" />
+  <img src="https://img.shields.io/badge/Dependency_Injection_(get__it)-000000?style=for-the-badge&logo=dart&logoColor=7A5CFF" alt="get_it" />
 
-### 🔥 Backend & Services
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  <br><br>
 
-### 🌐 Web Background
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+  <h3>🌐 Networking & Local Storage</h3>
+  <img src="https://img.shields.io/badge/Dio-000000?style=for-the-badge&logo=dart&logoColor=00F0FF" alt="Dio" />
+  <img src="https://img.shields.io/badge/RESTful_APIs-000000?style=for-the-badge&logo=json&logoColor=7A5CFF" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/Hive-000000?style=for-the-badge&logo=apachehive&logoColor=00F0FF" alt="Hive" />
+  <img src="https://img.shields.io/badge/Shared_Preferences-000000?style=for-the-badge&logo=android&logoColor=7A5CFF" alt="SharedPreferences" />
 
-### 🧰 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+  <br><br>
 
----
+  <h3>🔥 Backend Services & Testing</h3>
+  <img src="https://img.shields.io/badge/Firebase_Auth-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Auth" />
+  <img src="https://img.shields.io/badge/Cloud_Firestore-000000?style=for-the-badge&logo=firebase&logoColor=7A5CFF" alt="Cloud Firestore" />
+  <img src="https://img.shields.io/badge/Firebase_Storage-000000?style=for-the-badge&logo=firebase&logoColor=00F0FF" alt="Firebase Storage" />
+  <img src="https://img.shields.io/badge/FCM_(Push_Notifications)-000000?style=for-the-badge&logo=firebase&logoColor=7A5CFF" alt="FCM" />
+  <img src="https://img.shields.io/badge/Unit_&_Widget_Testing-000000?style=for-the-badge&logo=jest&logoColor=00F0FF" alt="Testing" />
 
-# 📊 GitHub Stats:
+</div>
+
+<br>
+<hr>
+<br>
+
+# 📊 GitHub Stats
 
 <div align="center">
 
@@ -148,7 +198,28 @@ I started my journey in **Electronics & Communication Engineering** before trans
 <img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" alt="GitHub Streak" />
 
 <br/><br/>
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/GITHUB%20STATISTICS-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=009DFF" alt="GitHub Stats Header" />
 
-<img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&color=009DFF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <br>
+
+  <a href="https://github.com/dev-amr-elsherif?tab=followers">
+    <img src="https://img.shields.io/github/followers/dev-amr-elsherif?label=Followers&style=flat-square&color=009DFF&logo=github" alt="Followers" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dev-amr-elsherif?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-6-009DFF?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dev-amr-elsherif?tab=stars">
+    <img src="https://img.shields.io/github/stars/dev-amr-elsherif?label=Stars&style=flat-square&color=009DFF&logo=github" alt="Stars" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/dev-amr-elsherif">
+    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square" alt="Views" />
+  </a>
+
+</div>
 
 </div>
