@@ -208,19 +208,19 @@ I’m open to collaborate on:
   <br>
 
   <a href="https://github.com/dev-amr-elsherif?tab=followers">
-    <img src="https://img.shields.io/github/followers/dev-amr-elsherif?label=Followers&style=flat-square&color=009DFF&logo=github" alt="Followers" />
+    <img src="https://img.shields.io/github/followers/dev-amr-elsherif?label=Followers&style=flat-square&color=009DFF" alt="Followers" />
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-6-009DFF?style=flat-square&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-6-009DFF?style=flat-square" alt="Repositories" />
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif?tab=stars">
-    <img src="https://img.shields.io/github/stars/dev-amr-elsherif?label=Stars&style=flat-square&color=009DFF&logo=github" alt="Stars" />
+    <img src="https://img.shields.io/github/stars/dev-amr-elsherif?label=Stars&style=flat-square&color=009DFF" alt="Stars" />
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif">
-    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square"" alt="Views" />
   </a>
 
 </div>
