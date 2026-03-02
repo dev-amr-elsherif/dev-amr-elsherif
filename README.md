@@ -1,7 +1,6 @@
 <div align="center">
-  
-<p><i>⏳ Wait a second for the magic to load... ✨</i></p>
-  <img src="banner.gif" width="100%" alt="Amr Elsherif Banner"/>
+  <p><i>⏳ Wait a second for the magic to load... ✨</i></p>
+  <img src="banner.webp" width="768" alt="Amr Elsherif Banner"/>
   <hr>
   <br><br>
 
