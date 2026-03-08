@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/dev-amr-elsherif/dev-amr-elsherif/main/profile-summary-card-output/vision_friendly_dark/4-productive-time.svg)
+```
+
+    
