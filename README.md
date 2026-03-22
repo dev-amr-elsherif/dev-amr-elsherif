@@ -212,7 +212,7 @@ I’m open to collaborate on:
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif?tab=repositories">
-    <img src="https://img.shields.io/badge/Repositories-8-009DFF?style=flat-square" alt="Repositories" />
+    <img src="https://img.shields.io/badge/Repositories-7-009DFF?style=flat-square" alt="Repositories" />
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif?tab=stars">
