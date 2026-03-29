@@ -1,5 +1,5 @@
 <div align="center">
-  <p><i>⏳ Wait a second for the magic to load... ✨</i></p>
+  <!-- <p><i>⏳ Wait a second for the magic to load... ✨</i></p> -->
   <img src="banner.webp" width="768" alt="Amr Elsherif Banner"/>
   <hr>
   <br><br>
@@ -185,7 +185,7 @@ I’m open to collaborate on:
 <hr>
 <br>
 
-# 📊 GitHub Stats
+# GitHub Stats
 
 <div align="center">
 
@@ -198,7 +198,7 @@ I’m open to collaborate on:
 
 <br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=dev-amr-elsherif&background=0D1117&stroke=7A5CFF&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF&hide_border=true" width="100%" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amr-elsherif&theme=dark&hide_border=true&background=0D1117&ring=009DFF&fire=00F0FF&currStreakNum=00FFA3&currStreakLabel=009DFF&sideNums=009DFF&sideLabels=7A5CFF&dates=009DFF" width="100%" alt="GitHub Streak" />
 
 <br/><br/>
 <div align="center">
@@ -220,8 +220,10 @@ I’m open to collaborate on:
   </a>
   &nbsp;
   <a href="https://github.com/dev-amr-elsherif">
-    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square"" alt="Views" />
+    <img src="https://komarev.com/ghpvc/?username=dev-amr-elsherif&label=Profile%20Views&color=009DFF&style=flat-square" alt="Views" />
   </a>
+
+</div>
 
 </div>
 
