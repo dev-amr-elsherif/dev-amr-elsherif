@@ -129,16 +129,6 @@ I’m open to collaborate on:
         <p><b>Flutter & Dart Specialization</b> - Practical implementations of advanced mobile engineering concepts. 🌟</p>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center" valign="top">
-        <br>
-        <a href="https://github.com/dev-amr-elsherif/Tech-Learning-Journey">
-          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Tech-Learning-Journey" width="50%" alt="Tech Learning Journey">
-        </a>
-        <br>
-        <p><b>Tech Learning Journey</b> - A centralized vault for software engineering concepts, system design, and architectural practice. 📚</p>
-      </td>
-    </tr>
   </table>
 </div>
 
