@@ -114,14 +114,21 @@ I’m open to collaborate on:
 <div align="center">
   <table border="0">
     <tr>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
+        <a href="https://github.com/dev-amr-elsherif/weatherlink">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/weatherlink" width="100%" alt="WeatherLink Project">
+        </a>
+        <br>
+        <p><b>WeatherLink</b> - Smart Environmental Control Ecosystem bridging ESP32-S3 hardware with a premium Flutter dashboard via Blynk IoT. 🌍⚙️</p>
+      </td>
+      <td width="33%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/devsync_flutter">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Project">
         </a>
         <br>
         <p><b>DevSync</b> - AI-powered developer matching platform focused on team collaboration and skill-based pairing, built with Clean Architecture. 🚀</p>
       </td>
-      <td width="50%" align="center" valign="top">
+      <td width="33%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt" width="100%" alt="Flutter Dart Specialization">
         </a>
