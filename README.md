@@ -114,31 +114,39 @@ I’m open to collaborate on:
 <div align="center">
   <table border="0">
     <tr>
-      <td width="33%" align="center" valign="top">
+      <td width="50%" align="center" valign="top">
+        <a href="https://github.com/dev-amr-elsherif/software-engineer-resume-template">
+          <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/software-engineer-resume-template" width="100%" alt="Software Engineer Resume Template">
+        </a>
+        <br>
+        <p><b>⚡ Software Engineer Resume Template</b><br>A battle-tested, minimalist, and ATS-optimized LaTeX resume template tailored for tech professionals. 📄</p>
+      </td>
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/weatherlink">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/weatherlink" width="100%" alt="WeatherLink Project">
         </a>
         <br>
-        <p><b>WeatherLink</b> - Smart Environmental Control Ecosystem bridging ESP32-S3 hardware with a premium Flutter dashboard via Blynk IoT. 🌍⚙️</p>
+        <p><b>🌍 WeatherLink</b><br>Smart Environmental Control Ecosystem bridging ESP32-S3 hardware with a premium Flutter dashboard via Blynk IoT. ⚙️</p>
       </td>
-      <td width="33%" align="center" valign="top">
+    </tr>
+    <tr>
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/devsync_flutter">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/devsync_flutter" width="100%" alt="DevSync Project">
         </a>
         <br>
-        <p><b>DevSync</b> - AI-powered developer matching platform focused on team collaboration and skill-based pairing, built with Clean Architecture. 🚀</p>
+        <p><b>🚀 DevSync</b><br>AI-powered developer matching platform focused on team collaboration and skill-based pairing. 🤝</p>
       </td>
-      <td width="33%" align="center" valign="top">
+      <td width="50%" align="center" valign="top">
         <a href="https://github.com/dev-amr-elsherif/Flutter-Dart-Specialization-Packt">
           <img src="https://opengraph.githubassets.com/1/dev-amr-elsherif/Flutter-Dart-Specialization-Packt" width="100%" alt="Flutter Dart Specialization">
         </a>
         <br>
-        <p><b>Flutter & Dart Specialization</b> - Practical implementations of advanced mobile engineering concepts. 🌟</p>
+        <p><b>🌟 Flutter & Dart Specialization</b><br>Practical implementations of advanced mobile engineering concepts and scalable architecture. 📱</p>
       </td>
     </tr>
   </table>
 </div>
-
 <br>
 <hr>
 <br>
